@@ -1,0 +1,9 @@
+Package: SSLasso
+Type: Package
+Title: Sparse Precision Matrix Estimation with Bayesian Regularization
+Version: 1.0
+Date: 2016-12-15
+Author: Lingrui(Gary) Gan
+Maintainer: Lingrui Gan <lgan6@illinois.edu>
+Description: Sparse Precision Matrix Estimation with Spike and Slab Laplace Prior. 
+License: GPL(>=2)
